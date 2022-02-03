@@ -14,7 +14,7 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 
 ### Project 3: Medical Data Visualizer
 
-~vem ai~
+vem ai
 
 
 
